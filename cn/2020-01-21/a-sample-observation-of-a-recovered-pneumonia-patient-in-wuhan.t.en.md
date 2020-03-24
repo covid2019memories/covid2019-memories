@@ -151,5 +151,5 @@ link: https://mp.weixin.qq.com/s/Ps5lUon8LMCxLrPGwqKjMg
 archive: https://archive.ph/cMxZj
 snapshot: missing
 lead:
-  Wang Kang, a patient who had been treated at the hospital, has been discharged. From feeling bad on December 24,2019, to being discharged from the hospital on January 15, he underwent two transfers and had dangerously low blood oxygen levels,
-  finally in the Golden Pool Hospital diagnosis and was treated. At one point, Shen had a conversation with Wang, hoping to use him as a specimen to reconstruct the discovery and treatment of pneumonia in patients with early 2019-ncov.
+  Wang Kang, a patient who had been treated at the hospital, has been discharged. 
+  At one point, Shen had a conversation with Wang, hoping to use him as a specimen to reconstruct the discovery and treatment of pneumonia in patients with early 2019-ncov.

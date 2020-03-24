@@ -193,7 +193,4 @@ archive: https://archive.ph/BLmAC
 snapshot: missing
 lead:
   In just 30 days, the city of Wuhan in Wuhan has become the eye of the storm as a result of a sudden outbreak of pneumonia. 
-  On Jan. 19 and 20, reporters from the Beijing News visited Wuhan, a city in the midst of a pneumonia epidemic,
-  which have changed the trajectory of citizens'lives. Thousands of miles away, in the capital, Beijing, and in
-  Hong Kong, officials have also launched prevention and control measures for the outbreak.
   Faced with the arrival of the Spring Festival travel rush, are these cities ready for the test?
