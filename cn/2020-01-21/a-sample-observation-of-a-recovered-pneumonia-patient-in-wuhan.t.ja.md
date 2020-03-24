@@ -143,10 +143,13 @@ title: 武漢肺炎リハビリテーション患者のサンプル観察新型�
 source: 北青深一度
 authors: 梁婷
 editors: 杨宝璐 宋建华
+proofreader: 
+photographer:
+translator:
 via: https://github.com/2019ncovmemory/nCovMemory
 link: https://mp.weixin.qq.com/s/Ps5lUon8LMCxLrPGwqKjMg
-achive: https://archive.ph/cMxZj
+archive: https://archive.ph/cMxZj
 snapshot: missing
-leading: >
-金銀病院に通っていた患者の王秉が退院した。 2019年12月24日の體調不良を皮切りに、1月15日に全治して退院するまでに2度の転院を経験し、一時は危険な状態に，
-結局、金銀潭(キム・ウンダム)病院で診斷され、治療を受けた。 王秉氏をモデルに初期の新型重症急性呼吸噐症候羣に感染した肺炎患者の発見と治療過程を再現してほしいと話した。
+leading:
+    金銀病院に通っていた患者の王秉が退院した。 2019年12月24日の體調不良を皮切りに、1月15日に全治して退院するまでに2度の転院を経験し、一時は危険な状態に，
+    結局、金銀潭(キム・ウンダム)病院で診斷され、治療を受けた。 王秉氏をモデルに初期の新型重症急性呼吸噐症候羣に感染した肺炎患者の発見と治療過程を再現してほしいと話した。
