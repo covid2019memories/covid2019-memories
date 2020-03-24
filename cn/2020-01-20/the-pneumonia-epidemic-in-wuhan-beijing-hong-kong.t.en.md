@@ -180,12 +180,12 @@ Previously, the Hong Kong SAR government has activated the "serious" response le
 On January 13, under the arrangement of the NHC, the deputy director of the Food and Health Bureau, Xu Deyi, and representatives from the Department of Health and the Hospital Authority, visited Wuhan to understand the situation, prevention and control measures and clinical treatment of pneumonia cases in Wuhan.
 
 -------------
-title: 直击肺炎疫情下的武汉、北京、香港
-source: 新京报
+title: The pneumonia epidemic in Wuhan, Beijing, Hong Kong
+source: The Beijing News
 authors: 海阳 韩沁珂 梁静怡 张静姝 吴淋姝 姜慧梓
 editors: 王婧祎 潘佳琨 陈思
 proofread: 郭利
-translation: 彩云小译
+translation: Lingocloud
 via: https://github.com/2019ncovmemory/nCovMemory
 link: https://mp.weixin.qq.com/s/g0yMaWd6JbkSp2t79wjh7A
 achive: https://archive.ph/BLmAC
