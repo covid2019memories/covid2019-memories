@@ -143,9 +143,9 @@ title: A sample of recovered pneumonia patients in Wuhan: 22 days of fighting wi
 source: 北青深一度
 authors: 梁婷
 editors: 杨宝璐 宋建华
-proofreader: 
-photographer:
-translator:
+proofreader: _
+photographer: _
+translator: Lingcloud
 via: https://github.com/2019ncovmemory/nCovMemory
 link: https://mp.weixin.qq.com/s/Ps5lUon8LMCxLrPGwqKjMg
 archive: https://archive.ph/cMxZj

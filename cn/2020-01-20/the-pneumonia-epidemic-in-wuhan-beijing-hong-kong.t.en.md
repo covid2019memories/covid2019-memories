@@ -185,7 +185,7 @@ source: The Beijing News
 authors: 海阳 韩沁珂 梁静怡 张静姝 吴淋姝 姜慧梓
 editors: 王婧祎 潘佳琨 陈思
 proofreader: 郭利
-photographer: 
+photographer: _
 translator: Lingocloud
 via: https://github.com/2019ncovmemory/nCovMemory
 link: https://mp.weixin.qq.com/s/g0yMaWd6JbkSp2t79wjh7A
